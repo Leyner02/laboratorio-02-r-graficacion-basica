@@ -105,6 +105,7 @@ Casos Activos
    )
 ```
 
+
 Casos Fallecidos
 ```{r}
 fallecidos.ordenado <- order(ca_covid19$fallecidos, decreasing=TRUE)
